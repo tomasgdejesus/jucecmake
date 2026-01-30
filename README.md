@@ -20,6 +20,9 @@ React Frontend:
 - Monaco script editor
 - File saving/loading
 
+Demonstration:
+![Formulizer Controller screenshot](doc/img4.png)
+
 Images:
 ![Formulizer Controller screenshot](doc/img1.png)
 
