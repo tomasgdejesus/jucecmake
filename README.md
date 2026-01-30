@@ -9,7 +9,7 @@ This short video demonstrates:
 3. Reprogramming and recompiling Lua code to reshape the sound
 
 **NOTE: Turn sound on**
-https://github.com/user-attachments/assets/4c8ffa05-0a48-4d67-915e-f1eb0a8f57aa
+<video src=https://github.com/user-attachments/assets/4c8ffa05-0a48-4d67-915e-f1eb0a8f57aa/>
 
 ## About
 
