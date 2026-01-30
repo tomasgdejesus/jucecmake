@@ -8,7 +8,8 @@ This short video demonstrates:
 2. Sound effect when used with a synthesizer
 3. Reprogramming and recompiling Lua code to reshape the sound
 
-https://github.com/tomasgdejesus/jucecmake/blob/master/doc/demo1.mp4
+**NOTE: Turn sound on**
+https://github.com/user-attachments/assets/4c8ffa05-0a48-4d67-915e-f1eb0a8f57aa
 
 ## About
 
