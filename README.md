@@ -8,7 +8,7 @@ This short video demonstrates:
 2. Sound effect when used with a synthesizer
 3. Reprogramming and recompiling Lua code to reshape the sound
 
-**NOTE: Turn sound on**
+**NOTE: Turn sound on; GitHub turns sound off by default.**
 <video src=https://github.com/user-attachments/assets/4c8ffa05-0a48-4d67-915e-f1eb0a8f57aa/>
 
 ## About
